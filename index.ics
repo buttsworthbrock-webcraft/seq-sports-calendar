@@ -1245,4 +1245,14 @@ DESCRIPTION:AFL placeholder. Official venue page still lists date and start time
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:afl-2026-r18-lions-essendon@seqsports
+DTSTAMP:20260521T000000Z
+DTSTART:20260712T064000Z
+DTEND:20260712T094000Z
+SUMMARY:Brisbane Lions vs Essendon
+LOCATION:The Gabba, Brisbane
+DESCRIPTION:Round 18 AFL fixture - confirmed via Stadiums Queensland
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
