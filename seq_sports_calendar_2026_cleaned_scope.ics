@@ -1,0 +1,1248 @@
+BEGIN:VCALENDAR
+
+VERSION:2.0
+
+PRODID:-//OpenAI//SEQ Sports Calendar 2026 Cleaned//EN
+
+CALSCALE:GREGORIAN
+
+METHOD:PUBLISH
+
+X-WR-CALNAME:SEQ Sports Calendar 2026 - Cleaned
+
+X-WR-TIMEZONE:Australia/Brisbane
+
+BEGIN:VEVENT
+
+UID:b73d6715-e533-4686-824c-bb60679f5c94@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260227T183500
+
+DTEND;TZID=Australia/Brisbane:20260227T210500
+
+SUMMARY:Queensland Reds vs Highlanders
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:Super Rugby Pacific. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:dddbf96c-26d7-4b13-af48-f300e18e3535@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260306T190000
+
+DTEND;TZID=Australia/Brisbane:20260306T210000
+
+SUMMARY:Brisbane Broncos vs Penrith Panthers
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:7ace1295-472c-4c01-8138-754e486f4c67@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260307T183500
+
+DTEND;TZID=Australia/Brisbane:20260307T213500
+
+SUMMARY:Brisbane Lions vs Western Bulldogs
+
+LOCATION:The Gabba\, Brisbane
+
+DESCRIPTION:AFL Opening Round. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:256e9b01-e8c2-48ea-ad95-f96f3e504d16@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260308T150500
+
+DTEND;TZID=Australia/Brisbane:20260308T170500
+
+SUMMARY:Dolphins vs South Sydney Rabbitohs
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:2a1b5472-2055-4d04-9ffd-a9892fb12d3c@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260312T190000
+
+DTEND;TZID=Australia/Brisbane:20260312T210000
+
+SUMMARY:Brisbane Broncos vs Parramatta Eels
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:ec9d7a35-15fd-44fe-9691-67e280ad801c@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260314T183500
+
+DTEND;TZID=Australia/Brisbane:20260314T210500
+
+SUMMARY:Queensland Reds vs NSW Waratahs
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:Super Rugby Pacific. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:3a479401-f52c-4cc5-94f6-05afb5995ad8@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260315T171500
+
+DTEND;TZID=Australia/Brisbane:20260315T191500
+
+SUMMARY:Dolphins vs Gold Coast Titans
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:5cb21e80-22f5-4912-8b74-5362ab2bfd62@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260327T190000
+
+DTEND;TZID=Australia/Brisbane:20260327T210000
+
+SUMMARY:Brisbane Broncos vs Dolphins
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:2ccc2532-b07e-4d05-8cc7-0950ced86c0b@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260329T171500
+
+DTEND;TZID=Australia/Brisbane:20260329T191500
+
+SUMMARY:Gold Coast Titans vs St George Illawarra Dragons
+
+LOCATION:Cbus Super Stadium\, Gold Coast
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:d00d5cd9-bada-406f-b124-d8d3e547ac56@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260402T183000
+
+DTEND;TZID=Australia/Brisbane:20260402T213000
+
+SUMMARY:Brisbane Lions vs Collingwood
+
+LOCATION:The Gabba\, Brisbane
+
+DESCRIPTION:AFL Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:8f3f1d6d-1c06-464c-9c42-ff32a5b9a838@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260402T190000
+
+DTEND;TZID=Australia/Brisbane:20260402T210000
+
+SUMMARY:Dolphins vs Manly Sea Eagles
+
+LOCATION:Kayo Stadium\, Redcliffe
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:35dfcd0b-8db4-41e4-afcd-e800a963f328@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260404T183500
+
+DTEND;TZID=Australia/Brisbane:20260404T210500
+
+SUMMARY:Queensland Reds vs Western Force
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:Super Rugby Pacific. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:742df321-8075-4a97-9846-6a55dd4d18b8@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260404T183500
+
+DTEND;TZID=Australia/Brisbane:20260404T203500
+
+SUMMARY:Gold Coast Titans vs Brisbane Broncos
+
+LOCATION:Cbus Super Stadium\, Gold Coast
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:77c1b405-815e-4194-9ac4-f6d77d8273a0@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260410T200000
+
+DTEND;TZID=Australia/Brisbane:20260410T220000
+
+SUMMARY:Brisbane Broncos vs North Queensland Cowboys
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:1c5fc21e-cd1e-4d37-bf79-35f1750df274@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260411T193500
+
+DTEND;TZID=Australia/Brisbane:20260411T220500
+
+SUMMARY:Queensland Reds vs Crusaders
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:Super Rugby Pacific. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:c86d32ef-13fe-4c1d-8913-286aaf5a89fd@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260424T200000
+
+DTEND;TZID=Australia/Brisbane:20260424T220000
+
+SUMMARY:Brisbane Broncos vs Canterbury Bulldogs
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:7987d57b-73c9-4478-82fe-b530153e4e4a@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260426T151500
+
+DTEND;TZID=Australia/Brisbane:20260426T181500
+
+SUMMARY:Brisbane Lions vs Adelaide Crows
+
+LOCATION:The Gabba\, Brisbane
+
+DESCRIPTION:AFL Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:cfd72bda-0e59-4274-ba76-6cef03c9922b@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260501T200000
+
+DTEND;TZID=Australia/Brisbane:20260501T220000
+
+SUMMARY:Dolphins vs Melbourne Storm
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:17343c8a-47ca-4202-8660-2baa0c0406c8@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260502T150000
+
+DTEND;TZID=Australia/Brisbane:20260502T170000
+
+SUMMARY:Gold Coast Titans vs Canberra Raiders
+
+LOCATION:Cbus Super Stadium\, Gold Coast
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:5e9651cf-469e-4724-ba52-a796d55008df@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260502T193500
+
+DTEND;TZID=Australia/Brisbane:20260502T220500
+
+SUMMARY:Queensland Reds vs ACT Brumbies
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:Super Rugby Pacific. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:a98ac1d9-0210-4519-a2fa-9b6beb188d36@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260507T195000
+
+DTEND;TZID=Australia/Brisbane:20260507T215000
+
+SUMMARY:Dolphins vs Canterbury Bulldogs
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:ac9ff4c2-4f7c-487c-8d93-6c6050690b37@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260508T193000
+
+DTEND;TZID=Australia/Brisbane:20260508T223000
+
+SUMMARY:Brisbane Lions vs Carlton
+
+LOCATION:The Gabba\, Brisbane
+
+DESCRIPTION:AFL Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:c10325cf-caf2-4fc6-9353-1fc627bc663f@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260508T193500
+
+DTEND;TZID=Australia/Brisbane:20260508T220500
+
+SUMMARY:Queensland Reds vs Chiefs
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:Super Rugby Pacific. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:f064f64e-99db-4f19-bf2d-aa941219740d@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260514T193000
+
+DTEND;TZID=Australia/Brisbane:20260514T223000
+
+SUMMARY:Brisbane Lions vs Geelong Cats
+
+LOCATION:The Gabba\, Brisbane
+
+DESCRIPTION:AFL Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:dd65458c-d09d-41c1-b7d8-e09f0c8c255f@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260514T194500
+
+DTEND;TZID=Australia/Brisbane:20260514T214500
+
+SUMMARY:Women's State of Origin Game II: Queensland vs NSW
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:Ampol Women's State of Origin. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:4ce501f6-5c75-49f5-bf10-a43d82c11edc@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260515T180000
+
+DTEND;TZID=Australia/Brisbane:20260515T200000
+
+SUMMARY:Cronulla Sharks vs Canterbury Bulldogs
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Magic Round. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:5a6e4159-947b-4212-aeff-5c8c031c4333@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260515T200000
+
+DTEND;TZID=Australia/Brisbane:20260515T220000
+
+SUMMARY:South Sydney Rabbitohs vs Dolphins
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Magic Round. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:a09c14bc-ed45-4baf-a034-71f05a7ac828@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260516T150000
+
+DTEND;TZID=Australia/Brisbane:20260516T170000
+
+SUMMARY:Wests Tigers vs Manly Sea Eagles
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Magic Round. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:4741fb63-fd73-4e9d-923b-4c080cfb7876@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260516T173000
+
+DTEND;TZID=Australia/Brisbane:20260516T193000
+
+SUMMARY:Sydney Roosters vs North Queensland Cowboys
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Magic Round. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:cf3af6ff-af9e-4ec6-8d2e-1aaa3bb05cc7@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260516T194500
+
+DTEND;TZID=Australia/Brisbane:20260516T214500
+
+SUMMARY:Parramatta Eels vs Melbourne Storm
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Magic Round. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:e10172f0-a0d9-41ac-91a2-9cc606ad2a2a@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260517T140000
+
+DTEND;TZID=Australia/Brisbane:20260517T160000
+
+SUMMARY:Gold Coast Titans vs Newcastle Knights
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Magic Round. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:7e872e44-2d0b-4f56-88ae-e3a18c4c35c8@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260517T160000
+
+DTEND;TZID=Australia/Brisbane:20260517T180000
+
+SUMMARY:New Zealand Warriors vs Brisbane Broncos
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Magic Round. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:4e949b90-be2b-4849-ac45-2a1a2c2a2299@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260517T182500
+
+DTEND;TZID=Australia/Brisbane:20260517T202500
+
+SUMMARY:Penrith Panthers vs St George Illawarra Dragons
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Magic Round. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:112d75e4-46be-4211-a306-87044f4d31b4@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260528T194500
+
+DTEND;TZID=Australia/Brisbane:20260528T214500
+
+SUMMARY:Women's State of Origin Game III: NSW vs Queensland
+
+LOCATION:Cbus Super Stadium\, Gold Coast
+
+DESCRIPTION:Ampol Women's State of Origin. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:6dfe47ec-14c7-489d-ad88-ad3688b2fcd7@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260529T193500
+
+DTEND;TZID=Australia/Brisbane:20260529T220500
+
+SUMMARY:Queensland Reds vs Fijian Drua
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:Super Rugby Pacific. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:a3ce6a15-caeb-46e5-9851-40b3030840dd@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260530T161500
+
+DTEND;TZID=Australia/Brisbane:20260530T191500
+
+SUMMARY:Brisbane Lions vs Fremantle
+
+LOCATION:The Gabba\, Brisbane
+
+DESCRIPTION:AFL Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:23d3781c-49f2-4b1d-b6cf-9bd2d0f78f4f@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260531T140000
+
+DTEND;TZID=Australia/Brisbane:20260531T160000
+
+SUMMARY:Brisbane Broncos vs St George Illawarra Dragons
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:8df9026a-239c-40ac-8f83-696cd33b3e05@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260606T193000
+
+DTEND;TZID=Australia/Brisbane:20260606T213000
+
+SUMMARY:Brisbane Broncos vs Gold Coast Titans
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:95551a13-b938-48f6-bdfa-711ffe667e03@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260612T200000
+
+DTEND;TZID=Australia/Brisbane:20260612T220000
+
+SUMMARY:Dolphins vs Sydney Roosters
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:512810db-9e67-424b-9091-28a6cd962999@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260620T173000
+
+DTEND;TZID=Australia/Brisbane:20260620T193000
+
+SUMMARY:Gold Coast Titans vs Penrith Panthers
+
+LOCATION:Cbus Super Stadium\, Gold Coast
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:0d0dde77-7cf7-4a91-8bba-f219c8c96927@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260626T180000
+
+DTEND;TZID=Australia/Brisbane:20260626T200000
+
+SUMMARY:Gold Coast Titans vs Canterbury Bulldogs
+
+LOCATION:Cbus Super Stadium\, Gold Coast
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:cfca39bf-5684-4e6f-92f5-970d49bc2953@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260626T200000
+
+DTEND;TZID=Australia/Brisbane:20260626T220000
+
+SUMMARY:Brisbane Broncos vs Sydney Roosters
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:19226c5c-8111-4ca4-8e3b-6b5430d3dc77@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260627T150000
+
+DTEND;TZID=Australia/Brisbane:20260627T170000
+
+SUMMARY:Dolphins vs New Zealand Warriors
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:a7e92998-175d-45b7-9768-e289b07905d5@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260704T193000
+
+DTEND;TZID=Australia/Brisbane:20260704T213000
+
+SUMMARY:Brisbane Broncos vs Cronulla Sharks
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:83748b87-2c77-480a-bf00-3cddfa76abd1@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260708T200500
+
+DTEND;TZID=Australia/Brisbane:20260708T220500
+
+SUMMARY:Men's State of Origin Game III: Queensland vs NSW
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:Ampol Men's State of Origin. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:1b2ddc6c-0656-4bb7-8b49-f4e367b1b71f@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260711T150000
+
+DTEND;TZID=Australia/Brisbane:20260711T170000
+
+SUMMARY:Dolphins vs Cronulla Sharks
+
+LOCATION:Kayo Stadium\, Redcliffe
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:81c7f70f-c6b4-4c4b-96a6-3ba598717abd@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260711T173000
+
+DTEND;TZID=Australia/Brisbane:20260711T200000
+
+SUMMARY:Wallabies vs France
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:Nations Championship Test. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:94a78bf3-5a55-4b2e-a075-0610ad40c5bc@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260719T140000
+
+DTEND;TZID=Australia/Brisbane:20260719T160000
+
+SUMMARY:Gold Coast Titans vs Manly Sea Eagles
+
+LOCATION:Cbus Super Stadium\, Gold Coast
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:a099ba2f-60e8-4d2d-84ae-846c8a3344c3@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260719T160500
+
+DTEND;TZID=Australia/Brisbane:20260719T180500
+
+SUMMARY:Dolphins vs North Queensland Cowboys
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:40469a5b-a62b-4caa-9ae0-39e308552db4@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260801T150000
+
+DTEND;TZID=Australia/Brisbane:20260801T170000
+
+SUMMARY:Gold Coast Titans vs New Zealand Warriors
+
+LOCATION:Cbus Super Stadium\, Gold Coast
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:08f0a84a-49e6-453e-b602-cada96d6a7ac@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260801T193000
+
+DTEND;TZID=Australia/Brisbane:20260801T213000
+
+SUMMARY:Brisbane Broncos vs Newcastle Knights
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:410fe9dc-d16b-4cec-ae34-2e0a46262184@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260806T195000
+
+DTEND;TZID=Australia/Brisbane:20260806T215000
+
+SUMMARY:Gold Coast Titans vs North Queensland Cowboys
+
+LOCATION:Cbus Super Stadium\, Gold Coast
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:19e73dc4-5140-4dbc-846c-3ba07b15aaf6@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260808T173000
+
+DTEND;TZID=Australia/Brisbane:20260808T193000
+
+SUMMARY:Dolphins vs Brisbane Broncos
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:abd0631f-bea2-407e-8878-333ecad533a7@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260815T193000
+
+DTEND;TZID=Australia/Brisbane:20260815T213000
+
+SUMMARY:Brisbane Broncos vs New Zealand Warriors
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:1f7ad9f2-6d9c-4bc9-af28-070fb16e8368@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260821T200000
+
+DTEND;TZID=Australia/Brisbane:20260821T220000
+
+SUMMARY:Dolphins vs Parramatta Eels
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:33fa44e7-f3d5-4048-b0d0-bb32dac891eb@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260823T140000
+
+DTEND;TZID=Australia/Brisbane:20260823T160000
+
+SUMMARY:Gold Coast Titans vs Cronulla Sharks
+
+LOCATION:Cbus Super Stadium\, Gold Coast
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:dc1abc7b-dbae-472d-bff5-a0c618ccac90@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260827T195000
+
+DTEND;TZID=Australia/Brisbane:20260827T215000
+
+SUMMARY:Brisbane Broncos vs Melbourne Storm
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:e1821ec2-ba18-4970-a49e-40092329cc25@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260829T150000
+
+DTEND;TZID=Australia/Brisbane:20260829T170000
+
+SUMMARY:Gold Coast Titans vs South Sydney Rabbitohs
+
+LOCATION:Cbus Super Stadium\, Gold Coast
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:2ee7a9ae-7ba2-4979-a861-a8ad5e41d36e@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20260904T180000
+
+DTEND;TZID=Australia/Brisbane:20260904T200000
+
+SUMMARY:Gold Coast Titans vs Dolphins
+
+LOCATION:Cbus Super Stadium\, Gold Coast
+
+DESCRIPTION:NRL Telstra Premiership. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:eb9ee3eb-1cf7-4de1-b8e4-516c3b7bf81b@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20261025T190500
+
+DTEND;TZID=Australia/Brisbane:20261025T210500
+
+SUMMARY:Rugby League World Cup: Australia vs Fiji
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:Rugby League World Cup 2026. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:3e0e33b7-4148-4ae9-97d4-2202f1ec87a0@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20261115T151500
+
+DTEND;TZID=Australia/Brisbane:20261115T171500
+
+SUMMARY:Rugby League World Cup Women's Final
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:Rugby League World Cup 2026. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+
+UID:6c6007a3-c678-45b2-9dbb-54651ea85430@openai
+
+DTSTAMP:20260417T084955
+
+DTSTART;TZID=Australia/Brisbane:20261115T183500
+
+DTEND;TZID=Australia/Brisbane:20261115T203500
+
+SUMMARY:Rugby League World Cup Men's Final
+
+LOCATION:Suncorp Stadium\, Brisbane
+
+DESCRIPTION:Rugby League World Cup 2026. Compiled from official venue and league schedules as of 2026-04-17.
+
+STATUS:CONFIRMED
+
+END:VEVENT
+BEGIN:VEVENT
+UID:3a0f15be-fb4e-47fd-b195-b0481afa6eb9@openai
+DTSTAMP:20260416T225441
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260629
+SUMMARY:Brisbane Lions vs Sydney Swans (Date/Time TBC)
+LOCATION:The Gabba, Brisbane
+DESCRIPTION:AFL placeholder. Official venue page still lists date and start time as TBC; AFL fixture places this game within Round 16 (25-28 Jun 2026).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7d127d71-75eb-4005-80b0-e14699d037c8@openai
+DTSTAMP:20260416T225441
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260713
+SUMMARY:Brisbane Lions vs Essendon (Date/Time TBC)
+LOCATION:The Gabba, Brisbane
+DESCRIPTION:AFL placeholder. Official venue page still lists date and start time as TBC; AFL fixture places this game within Round 18 (9-12 Jul 2026).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cdd5a3c7-4769-479e-9c55-e1bfb789eb0a@openai
+DTSTAMP:20260416T225441
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260727
+SUMMARY:Brisbane Lions vs Port Adelaide (Date/Time TBC)
+LOCATION:The Gabba, Brisbane
+DESCRIPTION:AFL placeholder. Official venue page still lists date and start time as TBC; AFL fixture places this game within Round 20 (23-26 Jul 2026).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b7b64878-0b4c-4919-a952-066c972228d7@openai
+DTSTAMP:20260416T225441
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260810
+SUMMARY:Brisbane Lions vs Hawthorn (Date/Time TBC)
+LOCATION:The Gabba, Brisbane
+DESCRIPTION:AFL placeholder. Official venue page still lists date and start time as TBC; AFL fixture places this game within Round 22 (6-9 Aug 2026).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6ad74c31-ba90-4b66-8da4-5536971d3a0e@openai
+DTSTAMP:20260416T225441
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260817
+SUMMARY:Brisbane Lions vs Gold Coast SUNS (Date/Time TBC)
+LOCATION:The Gabba, Brisbane
+DESCRIPTION:AFL placeholder. Official venue page still lists date and start time as TBC; AFL fixture places this game within Round 23 (14-16 Aug 2026).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
