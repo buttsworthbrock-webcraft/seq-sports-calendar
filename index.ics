@@ -1255,4 +1255,170 @@ LOCATION:The Gabba, Brisbane
 DESCRIPTION:Round 18 AFL fixture - confirmed via Stadiums Queensland
 STATUS:CONFIRMED
 END:VEVENT
+
+BEGIN:VEVENT
+UID:58e663dd-6a79-426f-8415-ab7e38d34db7@seqsports
+DTSTAMP:20260602T000000
+DTSTART;TZID=Australia/Brisbane:20260922T193000
+DTEND;TZID=Australia/Brisbane:20260922T213000
+SUMMARY:Brisbane Bullets vs New Zealand Breakers
+LOCATION:Pat Rafter Arena, Brisbane
+DESCRIPTION:NBL27 Brisbane Bullets home game.
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:864ca7be-3d45-4aae-b720-6abd3210bbb8@seqsports
+DTSTAMP:20260602T000000
+DTSTART;TZID=Australia/Brisbane:20260925T193000
+DTEND;TZID=Australia/Brisbane:20260925T213000
+SUMMARY:Brisbane Bullets vs Illawarra Hawks
+LOCATION:Brisbane Entertainment Centre
+DESCRIPTION:NBL27 Brisbane Bullets home game.
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b3652194-0d5b-4892-9bae-45457796ce51@seqsports
+DTSTAMP:20260602T000000
+DTSTART;TZID=Australia/Brisbane:20261003T183000
+DTEND;TZID=Australia/Brisbane:20261003T203000
+SUMMARY:Brisbane Bullets vs South East Melbourne Phoenix
+LOCATION:Brisbane Entertainment Centre
+DESCRIPTION:NBL27 Brisbane Bullets home game.
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b9c5198a-9922-41a8-bfd1-a03d1639aec0@seqsports
+DTSTAMP:20260602T000000
+DTSTART;TZID=Australia/Brisbane:20261015T183000
+DTEND;TZID=Australia/Brisbane:20261015T203000
+SUMMARY:Brisbane Bullets vs Tasmania JackJumpers
+LOCATION:Brisbane Entertainment Centre
+DESCRIPTION:NBL27 Brisbane Bullets home game.
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8a5a0316-47ce-423c-bf80-b2b63216c6fd@seqsports
+DTSTAMP:20260602T000000
+DTSTART;TZID=Australia/Brisbane:20261029T183000
+DTEND;TZID=Australia/Brisbane:20261029T203000
+SUMMARY:Brisbane Bullets vs Cairns Taipans
+LOCATION:Brisbane Entertainment Centre
+DESCRIPTION:NBL27 Brisbane Bullets home game.
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:88655433-9f70-4c87-be88-d436fa0d1873@seqsports
+DTSTAMP:20260602T000000
+DTSTART;TZID=Australia/Brisbane:20261115T160000
+DTEND;TZID=Australia/Brisbane:20261115T180000
+SUMMARY:Brisbane Bullets vs South East Melbourne Phoenix
+LOCATION:Brisbane Entertainment Centre
+DESCRIPTION:NBL27 Brisbane Bullets home game.
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:75c536ee-f4f7-4fdb-ba89-d1ef6a6780a6@seqsports
+DTSTAMP:20260602T000000
+DTSTART;TZID=Australia/Brisbane:20261122T160000
+DTEND;TZID=Australia/Brisbane:20261122T180000
+SUMMARY:Brisbane Bullets vs Sydney Kings
+LOCATION:Brisbane Entertainment Centre
+DESCRIPTION:NBL27 Brisbane Bullets home game.
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8ce1a8e9-e814-49be-805c-34fb88704098@seqsports
+DTSTAMP:20260602T000000
+DTSTART;TZID=Australia/Brisbane:20261203T183000
+DTEND;TZID=Australia/Brisbane:20261203T203000
+SUMMARY:Brisbane Bullets vs Illawarra Hawks
+LOCATION:Brisbane Entertainment Centre
+DESCRIPTION:NBL27 Brisbane Bullets home game.
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:af3c47c4-fac8-4c65-ba64-a348563388e6@seqsports
+DTSTAMP:20260602T000000
+DTSTART;TZID=Australia/Brisbane:20261227T160000
+DTEND;TZID=Australia/Brisbane:20261227T180000
+SUMMARY:Brisbane Bullets vs Cairns Taipans
+LOCATION:Brisbane Entertainment Centre
+DESCRIPTION:NBL27 Brisbane Bullets home game.
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:250d2b3d-1a2c-4e8a-951f-08aa9db21d40@seqsports
+DTSTAMP:20260602T000000
+DTSTART;TZID=Australia/Brisbane:20261230T183000
+DTEND;TZID=Australia/Brisbane:20261230T203000
+SUMMARY:Brisbane Bullets vs Adelaide 36ers
+LOCATION:Brisbane Entertainment Centre
+DESCRIPTION:NBL27 Brisbane Bullets home game.
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1ea1d3ba-567f-4cac-a847-18315d8cc68c@seqsports
+DTSTAMP:20260602T000000
+DTSTART;TZID=Australia/Brisbane:20270103T160000
+DTEND;TZID=Australia/Brisbane:20270103T180000
+SUMMARY:Brisbane Bullets vs Melbourne United
+LOCATION:Brisbane Entertainment Centre
+DESCRIPTION:NBL27 Brisbane Bullets home game.
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:42507ec8-f80d-4a30-bf78-1d5d27161838@seqsports
+DTSTAMP:20260602T000000
+DTSTART;TZID=Australia/Brisbane:20270108T183000
+DTEND;TZID=Australia/Brisbane:20270108T203000
+SUMMARY:Brisbane Bullets vs Sydney Kings
+LOCATION:Brisbane Entertainment Centre
+DESCRIPTION:NBL27 Brisbane Bullets home game.
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e8b1a03f-d674-48c3-872a-e70f5ac2536a@seqsports
+DTSTAMP:20260602T000000
+DTSTART;TZID=Australia/Brisbane:20270123T183000
+DTEND;TZID=Australia/Brisbane:20270123T203000
+SUMMARY:Brisbane Bullets vs Melbourne United
+LOCATION:Brisbane Entertainment Centre
+DESCRIPTION:NBL27 Brisbane Bullets home game.
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4c2f02f8-1324-4b86-ac27-72293b148721@seqsports
+DTSTAMP:20260602T000000
+DTSTART;TZID=Australia/Brisbane:20270128T183000
+DTEND;TZID=Australia/Brisbane:20270128T203000
+SUMMARY:Brisbane Bullets vs Tasmania JackJumpers
+LOCATION:Brisbane Entertainment Centre
+DESCRIPTION:NBL27 Brisbane Bullets home game.
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:46fe22fb-4932-4743-b68e-4dfd874ce8bf@seqsports
+DTSTAMP:20260602T000000
+DTSTART;TZID=Australia/Brisbane:20270206T163000
+DTEND;TZID=Australia/Brisbane:20270206T183000
+SUMMARY:Brisbane Bullets vs Adelaide 36ers
+LOCATION:Brisbane Entertainment Centre
+DESCRIPTION:NBL27 Brisbane Bullets home game.
+STATUS:CONFIRMED
+END:VEVENT
+
 END:VCALENDAR
